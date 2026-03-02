@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "The University of Scranton",
+    "abbreviation": "Scranton",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#EA7A59",
+    "primaryBrandColor": "#502f6d",
+    "buttonColor": "#502f6d",
+    "buttonTextColor": "#ffffff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/scranton.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/scranton.png",
+    "partner_id": "0014T00000S6UKfQAN",
+    "programName": "Scranton Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.scranton.edu/information-technology/documents/policies/privacy-policy.pdf",
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 Scranton credits",
+    "startDate": "May 26",
+    "endDate": "August 7"
+  },
+  {
+    "item": "about",
+    "schoolname": "The University of Scranton",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "800 Linden St, Scranton, PA 18510",
+    "abbreviation": "Scranton",
+    "phone": "(570) 991-6736",
+    "credits": "3 Scranton credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 Scranton credits",
+    "abbreviation": "Scranton",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "The University of Scranton",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 Scranton credits",
+    "abbreviation": "Scranton",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BUAN 384 ST: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 25",
+    "term2EndDate": "December 13"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "The University of Scranton",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 Scranton credits",
+    "abbreviation": "Scranton",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BUAN 384 ST: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 25",
+    "term2EndDate": "December 13"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "The University of Scranton",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 Scranton credits",
+    "abbreviation": "Scranton",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BUAN 384 ST: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 25",
+    "term2EndDate": "December 13"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "The University of Scranton",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 Scranton credits",
+    "abbreviation": "Scranton",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BUAN 384 ST: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 25",
+    "term2EndDate": "December 13"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "The University of Scranton",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 Scranton credits",
+    "abbreviation": "Scranton",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BUAN 384 ST: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 25",
+    "term2EndDate": "December 13"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Scranton Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(570) 991-6736",
+    "abbreviation": "Scranton"
+  },
+  {
+    "item": "begin",
+    "credits": "3 Scranton credits",
+    "abbreviation": "Scranton",
+    "phone": "(570) 991-6736"
+  }
+]
